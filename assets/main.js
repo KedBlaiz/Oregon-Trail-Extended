@@ -112,4 +112,4 @@ console.log(`#8: Quarantine should be false. Actual: ${wagon.shouldQuarantine()}
 sarahunter.giveFood(juan, 4);
 sarahunter.eat(); // She only has 1, so she eats it and is now sick
 console.log(`#9: Quarantine should be true. Actual: ${wagon.shouldQuarantine()}`);
-console.log(`#10: There should be 6 total food. Actual: ${wagon.totalFood()}`
+console.log(`#10: There should be 6 total food. Actual: ${wagon.totalFood()}`);
